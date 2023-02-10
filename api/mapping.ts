@@ -943,15 +943,15 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
   },
   
   {
-    name: 'onespace-1sp',
-    displayName: 'ONESPACE 1SP STAKING',
+    name: 'turbo',
+    displayName: 'TURBO STAKING',
     stakePoolAddress: new PublicKey(
-      '33cp8KDrzJpJDDRTSyTght2FuXCbUDmAiecFRw8qgem4'
+      'GeoWUFNTqHRNyddyhVYs23GAYRsTWJfVM3JhNFqeoUz5'
     ),
     websiteUrl: 'https://1space.me/',
     receiptType: ReceiptType.Original,
     tokenStandard: TokenStandard.Fungible,
-    hostname: 'coinstake.1space.me',
+    hostname: 'turbo.me',
     hideFooter: true,
     imageUrl: 'https://1space.me/images/stake-spaceman1.png',
     
